@@ -1,9 +1,4 @@
-/*
-ranit delevkovitz
-205781701
-83-120-03
-ex5
-*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
